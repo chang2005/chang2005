@@ -49,21 +49,10 @@ A Chinese college student passionate about **Computer Science & Embedded Systems
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chang2005&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chang2005&layout=compact&theme=gruvbox&hide_border=true&langs_count=12" height="170" />
-</p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=chang2005&theme=gruvbox&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chang2005&theme=gruvbox&area=true&hide_border=true" width="95%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chang2005&theme=gruvbox&column=7&margin-w=15&margin-h=15&no-frame=true" />
 </p>
 
 <p align="center">
