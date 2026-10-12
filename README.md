@@ -22,6 +22,10 @@ A Chinese college student passionate about **Computer Science & Embedded Systems
 - 🏆 **Gold Prize** winner of the **37th CASTIC** (China Adolescents Science & Technology Innovation Contest)
 - 📫 Reach me via **[Blog](https://www.changblog.top/)** or **📧 changblog.top@qq.com**
 
+<!-- GH-SYNC:ABOUT-STATS:START -->
+> 📦 **3** public repos · 🧩 primary languages **Arduino / C++** · 🔥 **2** active in the last 180 days · 🕒 latest push **2026-10-06**
+<!-- GH-SYNC:ABOUT-STATS:END -->
+
 ### 🛠️ Tech Stack
 
 <p align="center">
@@ -40,12 +44,24 @@ A Chinese college student passionate about **Computer Science & Embedded Systems
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 </p>
 
+<!-- GH-SYNC:SKILLS:START -->
+<sub>What actually shows up in the code, aggregated across all public repos.</sub>
+
+| Level | Technologies |
+| --- | --- |
+| 🧠 Primary | `Arduino` · `C++` |
+| 🔧 Familiar | `Python` · `I2C` · `PMBus` |
+<!-- GH-SYNC:SKILLS:END -->
+
 ### 🚀 Featured Projects
 
-| Project | Description | Link |
-|---|---|---|
-| **bcm6135-arduino-pmbus** | Arduino PMBus/I2C sketch for the Vicor BCM6135 DC-DC converter — address probing, EN control, telemetry reads | [Repo](https://github.com/chang2005/bcm6135-arduino-pmbus) |
-| **Arduino-STM32DHT11** | DHT11 temperature & humidity sensor demo on STM32 | [Repo](https://github.com/chang2005/Arduino-STM32DHT11) |
+<!-- GH-SYNC:PROJECTS:START -->
+| Project | Description | Stack | Links | Updated | ⭐ |
+| --- | --- | --- | --- | --- | --- |
+| **loves_me_not** 🌼 | Reads your exported chat logs **entirely offline** and turns them into a 0–100 emotional-investment score plus a self-contained **14-page HTML report**: radar charts, trends, calendar heatmap, word cloud and real quote evidence. Explainable scoring, zero third-party dependencies, 245 unit tests. | `Python 3` `Zero-dependency` `Single-file HTML` `Data Viz` | [Repo](https://github.com/chang2005/loves_me_not) · [Demo](https://htmlpreview.github.io/?https://github.com/chang2005/loves_me_not/blob/main/demo/report-warm.html) | 2026-10-06 | 0 |
+| **bcm6135-arduino-pmbus** | Arduino PMBus/I2C sketch for the Vicor BCM6135 DC-DC converter — address probing, EN control, telemetry reads | `C++` `Arduino` `PMBus` `I2C` | [Repo](https://github.com/chang2005/bcm6135-arduino-pmbus) | 2026-08-28 | 0 |
+| **Arduino-STM32DHT11** | DHT11 temperature & humidity sensor demo on STM32 | `Arduino` `C++` | [Repo](https://github.com/chang2005/Arduino-STM32DHT11) | 2023-07-14 | 0 |
+<!-- GH-SYNC:PROJECTS:END -->
 
 ### 📊 GitHub Stats
 
