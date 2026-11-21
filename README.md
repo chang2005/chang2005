@@ -64,7 +64,7 @@ All 6 public repositories, newest push first. Stars, forks, topics and dates com
 | [SerialScope](https://github.com/chang2005/SerialScope) | Cross-platform, protocol-aware UART/serial debugger | C++ | GPL-3.0 | 2026-11-17 | *(none)* | 0 |
 | [IC-Inventory](https://github.com/chang2005/IC-Inventory) | Component supply-chain: 档案 · 库存 · 缺料 · 采购 · 出入库 | JavaScript | MIT | 2026-10-30 | *(none)* | 0 |
 | [chang2005](https://github.com/chang2005/chang2005) | This profile repository — README-driven introduction page | *(none)* | MIT | 2026-10-12 | *(none)* | 0 |
-| [loves_me_not](https://github.com/chang2005/loves_me_not) | Fully offline chat-log analyzer with a single-file HTML report | Python | MIT *(README)* | 2026-10-06 | *(none)* | 0 |
+| [loves_me_not](https://github.com/chang2005/loves_me_not) | Fully offline chat-log analyzer with a single-file HTML report | Python | MIT (README) | 2026-10-06 | *(none)* | 0 |
 | [bcm6135-arduino-pmbus](https://github.com/chang2005/bcm6135-arduino-pmbus) | Arduino PMBus/I2C test program for the Vicor BCM6135 | C++ | MIT | 2026-08-28 | *(none)* | 0 |
 | [Arduino-STM32DHT11](https://github.com/chang2005/Arduino-STM32DHT11) | Temperature & humidity on STM32F103C8T6 with a DHT11 | C++ | Apache-2.0 | 2023-07-14 | *(none)* | 0 |
 
@@ -87,17 +87,3 @@ All 6 public repositories, newest push first. Stars, forks, topics and dates com
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=chang2005&label=Profile%20views&color=A7A459&style=flat" alt="profile views" />
 </p>
-
----
-
-### 📌 Data Sources & Notes
-
-- **Collected on 2026-11-21** from the GitHub REST API and each repository's `README.md`.
-- **All 6 repositories have an empty topics array**, so *(none)* is shown rather than a substituted label. **Every repository is at 0 stars and 0 forks.** The profile has 3 followers, follows 14 accounts, and has 0 public gists.
-- `loves_me_not` is marked **MIT** in its README while the API `license` field returns `NOASSERTION` (Other); the table follows the README and keeps the difference visible.
-- The `GH-SYNC:*` blocks above are auto-sync markers; their values were refreshed against live API data (the previously published "3 public repos · latest push 2026-10-06" had gone stale).
-- This repository also carries `index.html` — the same content as a script-free responsive single page, deployed at **<https://chang2005.github.io/chang2005/>**.
-
-### 📄 License
-
-Released under the [MIT License](LICENSE).
